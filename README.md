@@ -59,9 +59,6 @@ Users can view live data, control devices, and receive alerts — all through an
 
 - ⚙️ Automation Rules (if sensor > threshold → take action)
 
-  ## SCHEMATIC DIAGRAM
-<img width="969" height="598" alt="image" src="https://github.com/user-attachments/assets/2f6ee74d-3513-428e-8096-72c71e6fa5f0" />
-
 ## 🏗️ System Architecture
 The system includes:
 
