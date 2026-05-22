@@ -158,9 +158,6 @@ If you like this project, please star the repository ⭐
 It inspires more futuristic UI experiments
 
 
-## 👤 Author    
-- Manjunath G L
-
 If you want to contact me, you can reach me through below handles.
 
 <a href="https://www.linkedin.com/in/manjunathgl/" target="_blank">
