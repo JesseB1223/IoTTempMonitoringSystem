@@ -108,9 +108,6 @@ The system includes:
 
 <img width="652" height="812" alt="Screenshot 2025-12-11 212644" src="https://github.com/user-attachments/assets/5ee51d49-b089-4d21-b248-799d9e5313e9" />
 
-## IoT Analytics - ThingSpeak Internet of Things
-
-<img width="758" height="470" alt="image" src="https://github.com/user-attachments/assets/f9ab93c2-3ef1-4502-9752-f798e2892ca6" />
 
 
 
