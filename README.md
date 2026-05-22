@@ -1,5 +1,3 @@
-# "Industrial-Automation-System-Using-IOT-Technology"
-
 # 🚀 Industrial Automation System Using IoT Technology
 
 A smart, IoT-powered automation solution for monitoring and controlling industrial processes in real time.
