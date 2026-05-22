@@ -29,11 +29,6 @@ Users can view live data, control devices, and receive alerts — all through an
 <img width="902" height="561" alt="b1" src="https://github.com/user-attachments/assets/d52f043b-d9ff-41b4-b1b9-fd13fcb4a65d" />
 
 
-## HARDWARE LAYOUT (CONTROL PANEL)
-<img width="861" height="417" alt="image" src="https://github.com/user-attachments/assets/00cbe511-47ec-4e2f-aadf-bc94a4107a92" />
-
-
-
 
 
 ## 🎯 Project Objectives
